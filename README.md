@@ -1,7 +1,6 @@
 ### Hi there I'm Denis👋
 
 I'm a hobbyist game dev currently attending the university of Alberta as a Computing science major.
-I'm mainly writing this because i need to get approved a school github account and it's not letting me because i dont have my profile filled out apparently
 <!--
 **Dedzixs/Dedzixs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
