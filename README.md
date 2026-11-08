@@ -1,6 +1,4 @@
-### Hi there I'm Denis👋
-
-I'm a hobbyist game dev currently attending the university of Alberta as a Computing science major.
+Game Dev for Monchii Studio
 <!--
 **Dedzixs/Dedzixs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
